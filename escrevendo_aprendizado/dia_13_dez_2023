@@ -1,0 +1,6 @@
+No dia de hoje eu aprendi sobre slices, arrays e maps na linguagem golang.
+arrays sãos iguas aos das outras linguans pedaços continuos de memória alocada.
+slices são como arrays, porém podem ser aumentados de tamanho, slices sãos estruturas de dados que possuem tamanho
+capacidade e um ponteiro. quando o dev quiser umentar o tamanho dessa slice com a append a capadicade será dobrada.
+maps sãos como os mapas de java, estruturas de dados com chave e valor onde você pode acessar um valor pelar chave.
+é uma boa prática criar um slices e o map com make uma função nativa do go
